@@ -1,6 +1,0 @@
-    /**
-     * {= comment | raw}
-     * @Validated({= validated})
-     * @var {= type}
-     */
-    public ${= propertyName};
